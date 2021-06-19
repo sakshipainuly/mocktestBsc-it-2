@@ -1,6 +1,4 @@
-//name-neelam
-//course-bscit A
-//student id -20052049
+
 #include<stdio.h>
  
 int main()
